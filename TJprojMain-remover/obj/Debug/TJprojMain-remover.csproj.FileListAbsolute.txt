@@ -1,7 +1,0 @@
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\bin\Debug\TJprojMain-remover.exe.config
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\bin\Debug\TJprojMain-remover.exe
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\bin\Debug\TJprojMain-remover.pdb
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\obj\Debug\TJprojMain-remover.csproj.AssemblyReference.cache
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\obj\Debug\TJprojMain-remover.csproj.CoreCompileInputs.cache
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\obj\Debug\TJprojMain-remover.exe
-C:\Users\Kai\Desktop\TJprojMain-remover\TJprojMain-remover\obj\Debug\TJprojMain-remover.pdb
